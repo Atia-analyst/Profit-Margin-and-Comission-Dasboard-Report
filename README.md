@@ -1,5 +1,4 @@
-# Profit-Margin-and-Comission-Dasboard-Report
-Interactive Profit Margin and Commission Dashboard for Business Analysis
+# Profit-Margin-and-Comission-Dasboard-Report for Business Analysis
 
 **Business Problem:**
 We need to create a commission dashboard for directors that calculates commissions for new contracts while **ensuring profit margins are maintained.** The challenge is to reward performance appropriately without impacting profitability.
@@ -16,7 +15,7 @@ We need to create a commission dashboard for directors that calculates commissio
 
 **5.** **Optimization:** Use a cost-benefit approach to assess trade-offs between additional hires, service quality, and profit maximization.
 
-**Results:**
+**Report Highlights:**
 
 <img width="868" height="498" alt="image" src="https://github.com/user-attachments/assets/f04dc34b-2acd-44ae-9437-8b126ba2fe37" />
 
